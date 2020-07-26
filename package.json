@@ -14,7 +14,15 @@
   "author": "Jesus Henriquez <henriquezfilardo@icloud.com>",
   "license": "MIT",
   "bin": {
-    "randomMsg": "./bin/global.js"
+    "randomMsg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusHenriquez/npm_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JesusHenriquez/npm_test/issues"
+  },
+  "homepage": "https://github.com/JesusHenriquez/npm_test#readme"
 }
